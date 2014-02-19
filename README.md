@@ -1,0 +1,4 @@
+kidoo
+=====
+
+java logics
